@@ -1,2 +1,2 @@
-# missionstatement
-METRO/599 Mission Statement for revision and editing
+# METRO / 599 Mission Statement
+METRO staff, please fork and suggest alternatives.
